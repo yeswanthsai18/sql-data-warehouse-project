@@ -10,7 +10,8 @@ Welcome to the **Data Warehouse and Analytics Project** repository! This project
 
 The data architecture for this project follows the **Medallion Architecture**, comprising **Bronze**, **Silver**, and **Gold** layers:
 
-![Data Architecture](docs/data_architecture.png)
+![Data Architecture](![image](https://github.com/user-attachments/assets/35ba050d-a3a1-4a51-ad7e-42d6fc62b36a)
+
 
 ### 🥉 Bronze Layer
 This layer serves as the raw data landing zone. It stores data *as-is* from the source systems, with ingestion primarily from CSV Files into a SQL Server Database.
@@ -89,29 +90,8 @@ These insights are crucial for empowering stakeholders with essential business m
 
 The project repository is thoughtfully organized for clarity and ease of navigation:
 
-data-warehouse-project/
-│
-├── datasets/                           # Raw datasets used for the project (ERP and CRM data)
-│
-├── docs/                               # Comprehensive project documentation and architecture details
-│   ├── etl.drawio                      # Draw.io file illustrating various ETL techniques and methods
-│   ├── data_architecture.drawio        # Draw.io file showcasing the project's overall data architecture
-│   ├── data_catalog.md                 # Detailed catalog of datasets, including field descriptions and metadata
-│   ├── data_flow.drawio                # Draw.io file for the complete data flow diagram
-│   ├── data_models.drawio              # Draw.io file depicting data models (specifically the star schema)
-│   ├── naming-conventions.md           # Consistent naming guidelines for tables, columns, and files
-│
-├── scripts/                            # SQL scripts organized by data layer for ETL and transformations
-│   ├── bronze/                         # Scripts for extracting and loading raw data into the Bronze layer
-│   ├── silver/                         # Scripts for cleaning and transforming data within the Silver layer
-│   ├── gold/                           # Scripts for creating analytical models in the Gold layer
-│
-├── tests/                              # Test scripts and data quality validation files
-│
-├── README.md                           # This project overview and instructions
-├── LICENSE                             # License information for the repository
-├── .gitignore                          # Specifies files and directories to be ignored by Git
-└── requirements.txt                    # Python dependencies and requirements for the project (if any)
+![image](https://github.com/user-attachments/assets/e6ed198a-1bec-4518-b713-33bf90a8699f)
+
 
 ---
 
