@@ -10,7 +10,8 @@ Welcome to the **Data Warehouse and Analytics Project** repository! This project
 
 The data architecture for this project follows the **Medallion Architecture**, comprising **Bronze**, **Silver**, and **Gold** layers:
 
-![Data Architecture](![image](https://github.com/user-attachments/assets/35ba050d-a3a1-4a51-ad7e-42d6fc62b36a)
+![Data Architecture](![image](https://github.com/user-attachments/assets/fd4f0f57-c71e-422e-bec8-d637cf21aeae)
+
 
 
 ### 🥉 Bronze Layer
