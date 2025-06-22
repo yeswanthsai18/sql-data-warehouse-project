@@ -108,5 +108,5 @@ Hi there! I'm **Yeswanth Sai Tirumalasetty**, a dedicated Business Intelligence 
 
 Let's stay in touch! Feel free to connect with me on the following platforms:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yeswanthsaitirumalasetty)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yeswanth-sai-tirumalasetty/)
 [![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.yeswanthsaitirumalasetty.com)
